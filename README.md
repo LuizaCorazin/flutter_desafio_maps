@@ -182,4 +182,4 @@ Móveis --- SENAI.
 
 ## Autora
 
-**Beatriz Albuquerque**
+**Luiza Corazin**
